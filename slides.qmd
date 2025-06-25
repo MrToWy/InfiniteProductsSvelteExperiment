@@ -1,6 +1,6 @@
 ---
-title: "Title"
-subtitle: "Subtitle"
+title: "InfiniteProducts"
+subtitle: "Pagination vs Endless Scrolling"
 date: now
 date-format: "D. MMMM YYYY"
 lightbox: true
@@ -27,10 +27,10 @@ filters:
 
 ---
 
-# First Slide  
-- 1: Write code that works on your machine
-- 2: Break everything on someone else’s machine
-- 3: Blame the compiler.
+# Hypothesen  
+- H1: Subjektiv wirkt Endless-Scrolling angenehmer, schneller, moderner
+- H2: Mit Pagination findet User das gesuchte Produkt schneller 
+
 
 ::: {.attribution}
 Source: [GitHub.com](https://github.com/MrToWy/Quarto-Template)
